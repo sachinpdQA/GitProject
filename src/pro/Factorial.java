@@ -3,7 +3,8 @@ package pro;
 public class Factorial {
 	public static void main(String[] args)
 	{
-		double a=1,b=15;    
+		double a=1;
+		int b=15;    
 		
 		for(int i=1;i<=b;i++)
 		{
