@@ -3,7 +3,7 @@ package pro;
 public class Factorial {
 	public static void main(String[] args)
 	{
-		double a=1,b=15;    //result of factorial is always greater
+		double a=1,b=15;    
 		
 		for(int i=1;i<=b;i++)
 		{
